@@ -1,5 +1,6 @@
 FROM ubuntu:12.04
 
+# version: 0.1
 # 需要先安装 g++
 # 再安装其他依赖
 # ubuntu:12.04 才可以使用 i386 的包
