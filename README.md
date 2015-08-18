@@ -9,7 +9,6 @@
 ```
 $ git checkout latest \
   && docker build -t 'docker.genee.in/genee/nvs-env:latest' .
-
 ```
 ## 发布版本
 
